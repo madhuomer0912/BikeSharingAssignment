@@ -39,8 +39,8 @@ Based on various meteorological surveys and people's styles, the service provide
 
 
 ## Technologies Used
-- Python 3
-
+- Python 3 is used with below libraries: pandas numpy pandas numpy matplotlib.pyplot seaborn
+- 
 ## Acknowledgements
 Give credit here.
 - This project was inspired by. Upgrade Ai/ML course
@@ -49,7 +49,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@madhuomer0912] - feel free to contact me!
 
 
 <!-- Optional -->
